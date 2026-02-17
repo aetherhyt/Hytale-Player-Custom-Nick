@@ -11,7 +11,7 @@ A comprehensive nickname plugin for Hytale servers that allows players to set cu
 
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/9b636ecf-18a6-41b2-981d-a301d94c0a28" />
 
-
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/54edb35e-ea8f-410d-8249-d8d517d949c3" />
 
 ## Features
 
