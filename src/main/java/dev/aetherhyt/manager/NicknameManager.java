@@ -148,10 +148,6 @@ public class NicknameManager {
         }
     }
 
-    public void updateTabList(PlayerRef player) {
-        updateTabList(player, null);
-    }
-
     public void updateTabList(PlayerRef player, String name) {
         if (name == null || name.isEmpty()) {
             name = player.getUsername();
@@ -184,4 +180,6 @@ public class NicknameManager {
             e.printStackTrace();
         }
     }
+
+    
 }
