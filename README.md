@@ -1,5 +1,8 @@
 # CustomNicks
 
+<img width="500" height="273" alt="unwatermarked_Gemini_Generated_Image_errp2lerrp2lerrp" src="https://github.com/user-attachments/assets/3f7e9a73-2cb0-4388-afca-ebae94c44f9f" />
+
+
 A comprehensive nickname plugin for Hytale servers that allows players to set custom display names. These nicknames are integrated across the entire server experience, including chat, tab list, nameplates, and map markers.
 
 ## Features
