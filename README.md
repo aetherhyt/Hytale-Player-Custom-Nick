@@ -5,6 +5,14 @@
 
 A comprehensive nickname plugin for Hytale servers that allows players to set custom display names. These nicknames are integrated across the entire server experience, including chat, tab list, nameplates, and map markers.
 
+## Screenshots
+
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/89f401f3-f0e1-42d9-b437-3b47f853f2b6" />
+
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/9b636ecf-18a6-41b2-981d-a301d94c0a28" />
+
+
+
 ## Features
 
 - **Global Integration**: Nicknames appear everywhere:
