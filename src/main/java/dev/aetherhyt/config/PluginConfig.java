@@ -16,6 +16,7 @@ public class PluginConfig {
     public int maxLength = 20;
     public boolean allowCyrillic = true;
     public boolean uniqueNicknames = true;
+    public int chatMessageDuration = 30;
     public List<String> bannedWords = new ArrayList<>();
     
     // Configurable regex for allowed characters
